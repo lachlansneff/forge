@@ -9,7 +9,7 @@ description = "command-line tool for creating bare-metal projects that use metal
 readme = "README.md"
 keyword = ["osdev", "metal"]
 
-license = "APACHE2.0/MIT"
+license = "Apache License 2.0/MIT license"
 
 
 [dependencies]
