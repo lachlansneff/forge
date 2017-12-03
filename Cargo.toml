@@ -2,6 +2,14 @@
 name = "forge"
 version = "0.1.0"
 authors = ["Lachlan Sneff <lachlan.sneff@gmail.com>"]
+repository = "https://github.com/metal-os/forge"
+documentation = "https://docs.rs/forge"
+
+readme = "README.md"
+keyword = ["osdev", "metal"]
+
+license = "APACHE2.0/MIT"
+
 
 [dependencies]
 toml = "0.4.5"
