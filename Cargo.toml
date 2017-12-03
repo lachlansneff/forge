@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Lachlan Sneff <lachlan.sneff@gmail.com>"]
 repository = "https://github.com/metal-os/forge"
 documentation = "https://docs.rs/forge"
+description = "command-line tool for creating bare-metal projects that use metal"
 
 readme = "README.md"
 keyword = ["osdev", "metal"]
