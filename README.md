@@ -1,5 +1,8 @@
 # Forge
 
+[![Crates.io](https://img.shields.io/crates/v/forge.svg)](https://crates.io/crates/forge)
+[![Crates.io](https://img.shields.io/crates/l/forge.svg)](https://github.com/metal-os/metal)
+
 Forge is a tool for creating bare-metal applications with [`metal`](https://github.com/metal-os/metal).
 
 ## Installation:
